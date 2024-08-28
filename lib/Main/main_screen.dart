@@ -21,7 +21,7 @@ class _MainScreenState extends State<MainScreen> {
             SizedBox(
               height: 200,
               width: MediaQuery.of(context).size.width,
-              child: Image(image: NetworkImage("https://preply.com/wp-content/uploads/2018/04/shopping_bags.jpg",),fit: BoxFit.fill,),
+              child: const Image(image: NetworkImage("https://preply.com/wp-content/uploads/2018/04/shopping_bags.jpg",),fit: BoxFit.fill,),
             )
           ],
         ),
