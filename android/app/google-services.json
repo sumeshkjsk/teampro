@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "929110150017",
+    "project_id": "teampro-98c11",
+    "storage_bucket": "teampro-98c11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929110150017:android:308ffad28dd19f9052f680",
+        "android_client_info": {
+          "package_name": "com.example.team_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcvPgFhfN72aX1_2bmHNxFiVaQ5NqErCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
