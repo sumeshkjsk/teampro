@@ -18,7 +18,11 @@ class _MainScreenState extends State<MainScreen> {
       body: SingleChildScrollView(
         child: Column(
           children: [
-
+            SizedBox(
+              height: 200,
+              width: MediaQuery.of(context).size.width,
+              child: Image(image: NetworkImage("https://preply.com/wp-content/uploads/2018/04/shopping_bags.jpg",),fit: BoxFit.fill,),
+            )
           ],
         ),
       ),
